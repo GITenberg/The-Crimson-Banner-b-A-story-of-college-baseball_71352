@@ -1,0 +1,25 @@
+_repo: The-Crimson-Banner-b-A-story-of-college-baseball_71352
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moffat, William D.
+    gutenberg_agent_id: '56188'
+    url: http://www.gutenberg.org/2009/agents/56188
+description: ''
+gutenberg_issued: '2023-08-06'
+identifiers:
+  gutenberg: '71352'
+language: en
+pgterms:marc905: 20180328174019moffat
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aCleveland :$bThe Goldsmith Publishing Co., $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Crimson Banner : $b A story of college baseball'
+url: http://www.gutenberg.org/ebooks/71352
